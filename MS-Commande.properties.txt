@@ -1,0 +1,7 @@
+spring.application.name=MS-Commande
+spring.h2.console.enabled=true
+spring.datasource.username=admin
+spring.datasource.password=123
+spring.datasource.url=jdbc:h2:mem:testdb
+spring.jpa.show-sql=true
+mes-configs.limitDeCommandes=2
